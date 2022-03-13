@@ -1,0 +1,14 @@
+﻿ExampleIG : Validation Results
+=========================================
+
+err = 1, warn = 2, info = 0
+IG Publisher Version: 1.1.112
+Generated Sun Mar 13 15:30:29 UTC 2022. FHIR version 4.0.1 for hl7.fhir.be.my-ig#1.0.0 (canonical = http://hl7belgium.org/profiles/fhir/my-ig)
+ Build Errors : 0 / 1 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-my-ig : 1 / 1 / 1
+</table>
+== n/a ==
+WARNING: ImplementationGuide.url: The canonical URL for an Implementation Guide must point directly to the implementation guide resource, not to the Implementation Guide as a whole
+== fsh-generated/resources/ImplementationGuide-my-ig.json ==
+ERROR: ImplementationGuide/hl7.fhir.be.my-ig: ImplementationGuide.definition: ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide)
+WARNING: ImplementationGuide.jurisdiction: The resource should declare its jurisdiction to match the package id (hl7.fhir.be.my-ig, jurisdiction = urn:iso:std:iso:3166#BE) (for sushi-config.yaml: 'jurisdiction: urn:iso:std:iso:3166#BE "null"')
