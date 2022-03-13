@@ -6,7 +6,7 @@
     "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>ExampleIG</h2><p>The official URL for this implementation guide is: </p><pre>http://hl7belgium.org/profiles/fhir/my-ig/ImplementationGuide/hl7.fhir.be.my-ig</pre><div><p>Example IG exercises many of the fields in a SUSHI configuration.</p>\n</div></div>"
   },
   "url": "http://hl7belgium.org/profiles/fhir/my-ig/ImplementationGuide/hl7.fhir.be.my-ig",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "name": "ExampleIG",
   "title": "HL7 FHIR Implementation Guide: Example IG Release 1 - US Realm | STU1",
   "status": "active",
