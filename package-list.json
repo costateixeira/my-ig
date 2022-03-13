@@ -1,0 +1,29 @@
+{
+  "package-id": "hl7.fhir.be.my-ig",
+  "title": "My HL7 FHIR Implementation Guide",
+  "canonical": "http://hl7belgium.org/profiles/fhir/my-ig",
+  "introduction": "intro text",
+  "category": "test",
+  "list": [
+    {
+      "version": "current",
+      "desc": "Continuous Integration Build",
+      "path": "http://localhost/",
+      "status": "ci-build",
+      "current": true
+    },
+    {
+      "version": "0.0.1",
+      "status": "ballot",
+      "date": "2021-10-13",
+      "desc": "My Implementation Guide - August 2021",
+      "sequence": "Trial Use",
+      "intro": "intro text",
+      "category": "test",
+      "org": "MYSELF",
+      "path": "http://hl7belgium.org/profiles/fhir/my-ig/0.0.1",
+      "fhirversion": "4.0.1",
+      "current": true
+    }
+  ]
+}
