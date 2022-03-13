@@ -26,7 +26,7 @@ hapi:
     implementationguides:
       hl7.fhir.be.my-ig:
         name: hl7.fhir.be.my-ig
-        version: 1.0.0 
+        version: 0.0.1 
     cors:
       allow_Credentials: true
       # These are allowed_origin patterns, see: https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/cors/CorsConfiguration.html#setAllowedOriginPatterns-java.util.List-

@@ -3,7 +3,7 @@
     "id": "hl7.fhir.be.my-ig",
     "type": "ImplementationGuide",
     "url": "http://hl7belgium.org/profiles/fhir/my-ig/ImplementationGuide/hl7.fhir.be.my-ig",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "name": "ExampleIG"
   }
 ]
